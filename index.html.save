@@ -1,0 +1,12 @@
+<!DOCTYPE=HTML>
+<html lang = "en"> 
+	<head> 
+		<meta charset="UTF-8">
+		<title>Links and Images</title>
+	</head>
+	<body>
+		<h1>Homepage</h1>
+		<a href="https://www.google.com"> <strong>Link Here</strong> </a>
+		
+</html>
+
